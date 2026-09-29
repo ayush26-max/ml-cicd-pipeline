@@ -118,7 +118,7 @@ ml-cicd-pipeline/
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ml-cicd-pipeline.git
+git clone https://github.com/ayush26-max/ml-cicd-pipeline.git
 cd ml-cicd-pipeline
 pip install -r requirements.txt
 ```
